@@ -1,2 +1,2 @@
 # cppLab
-This repository contains the C++ homeworks and labs
+This repository contains my C++ homeworks and labs
