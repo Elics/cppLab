@@ -1,5 +1,4 @@
 //----------------------------------------------------------
-	
 	//  Brief Project Description
 	/*
 		This program asks the user to enter the number of students
